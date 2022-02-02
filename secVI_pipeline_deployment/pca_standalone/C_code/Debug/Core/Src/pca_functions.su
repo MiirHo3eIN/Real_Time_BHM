@@ -1,0 +1,4 @@
+pca_functions.c:24:6:mean_centering	4056	static
+pca_functions.c:59:5:energy_filter	40	static
+pca_functions.c:75:6:data_scaling	4064	static
+pca_functions.c:111:11:pca_computing	2152	static

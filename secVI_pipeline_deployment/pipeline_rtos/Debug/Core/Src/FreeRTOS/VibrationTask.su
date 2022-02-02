@@ -1,0 +1,6 @@
+VibrationTask.c:138:6:Training_shape.part.0	32	static
+VibrationTask.c:57:6:VibrationFunc	32	static,ignoring_inline_asm
+VibrationTask.c:138:6:Training_shape	0	static
+VibrationTask.c:166:6:Inferring_shape	32	static
+VibrationTask.c:111:6:HAL_UART_RxHalfCpltCallback	0	static
+VibrationTask.c:125:6:HAL_UART_RxCpltCallback	0	static

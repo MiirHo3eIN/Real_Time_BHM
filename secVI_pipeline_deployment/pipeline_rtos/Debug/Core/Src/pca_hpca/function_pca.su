@@ -1,0 +1,11 @@
+function_pca.c:22:8:miir_mean_f32	0	static
+function_pca.c:57:6:miir_mean_centering_f32	0	static
+function_pca.c:73:7:miir_std_f32	8	static
+function_pca.c:112:6:miir_zscore_f32	16	static
+function_pca.c:141:6:miir_mat_compression_f32	12	static
+function_pca.c:168:6:miir_mat_decompression_f32	24	static
+function_pca.c:210:6:miir_power_f32	0	static
+function_pca.c:241:6:miir_mat_sub_2d_f32	0	static
+function_pca.c:261:8:miir_rsnr_f32	416	static
+function_pca.c:284:7:miir_arsnrdb_f32	8	static
+function_pca.c:298:7:miir_mse_f32	416	static

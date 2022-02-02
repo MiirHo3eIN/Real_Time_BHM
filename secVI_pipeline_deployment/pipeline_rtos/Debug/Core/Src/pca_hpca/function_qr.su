@@ -1,0 +1,7 @@
+function_qr.c:23:7:norm	8	static
+function_qr.c:32:6:part_div	4	static
+function_qr.c:89:6:qyhous	36	static
+function_qr.c:94:6:transform2	36	static
+function_qr.c:112:6:transform1	152	static
+function_qr.c:69:6:qrhous	72	static
+function_qr.c:40:6:qr_opt	72	static
